@@ -2,7 +2,7 @@
 ![Artistic Spaces](https://github.com/RoshanDewmina/blog-nextjs-sanity-starter-kit/assets/107935194/87187e2c-4305-4c4c-ac4a-88be332e94e6)
 ![Artistic Spaces · 2 37pm · 12-28](https://github.com/RoshanDewmina/blog-nextjs-sanity-starter-kit/assets/107935194/d4b4225b-46b1-48f4-b231-11b483a53bac)
 ![Nature_s Palette_ A Subtle Plant Arrangement _ Artistic Spaces](https://github.com/RoshanDewmina/blog-nextjs-sanity-starter-kit/assets/107935194/7b45fe8d-fa60-499e-8c63-0681050acd41)
-https://youtu.be/FSyCWk4i-Dg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FSyCWk4i-Dg?si=JWKaG6wUoyOlamzN&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Project Overview
 This project focused on developing a blog application specifically designed for non-tech-savvy individuals. The main objective was to provide an easy-to-use platform for content creation and management, leveraging the power of modern web technologies.
